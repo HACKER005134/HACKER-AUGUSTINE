@@ -1,0 +1,201 @@
+API Key Leaks
+Markdown Linting - API, Business Logic, Clickjacking
+2 months ago
+Account Takeover
+Fix markdown style issues in Account Takeover
+6 months ago
+Business Logic Errors
+Markdown Linting - API, Business Logic, Clickjacking
+2 months ago
+CORS Misconfiguration
+Markdown Linting - CORS, CRLF, CSPT, CSRF, Command Injection
+2 months ago
+CRLF Injection
+Markdown Linting - CORS, CRLF, CSPT, CSRF, Command Injection
+2 months ago
+CSV Injection
+Markdown Linting - CSV, CVE, DBS, LFI, GWT, GraphQL
+2 months ago
+CVE Exploits
+Markdown Linting - CSV, CVE, DBS, LFI, GWT, GraphQL
+2 months ago
+Clickjacking
+Markdown Linting - API, Business Logic, Clickjacking
+2 months ago
+Client Side Path Traversal
+Markdown Linting - CORS, CRLF, CSPT, CSRF, Command Injection
+2 months ago
+Command Injection
+Markdown Linting - CORS, CRLF, CSPT, CSRF, Command Injection
+2 months ago
+Cross-Site Request Forgery
+Markdown Linting - CORS, CRLF, CSPT, CSRF, Command Injection
+2 months ago
+DNS Rebinding
+Markdown Linting - CSV, CVE, DBS, LFI, GWT, GraphQL
+2 months ago
+DOM Clobbering
+Markdown Linting - CSV, CVE, DBS, LFI, GWT, GraphQL
+2 months ago
+Denial of Service
+XXE - Fix typo
+2 months ago
+Dependency Confusion
+Markdown Linting - CSV, CVE, DBS, LFI, GWT, GraphQL
+2 months ago
+Directory Traversal
+Markdown Linting - CSV, CVE, DBS, LFI, GWT, GraphQL
+2 months ago
+External Variable Modification
+External Variable Modification
+2 months ago
+File Inclusion
+Fix broken links
+2 months ago
+Google Web Toolkit
+Markdown Linting - CSV, CVE, DBS, LFI, GWT, GraphQL
+2 months ago
+GraphQL Injection
+Markdown Linting - CSV, CVE, DBS, LFI, GWT, GraphQL
+2 months ago
+HTTP Parameter Pollution
+Markdown Linting - Parameters, Browsers, Deserialization Randomness
+2 months ago
+Headless Browser
+Markdown Linting - Parameters, Browsers, Deserialization Randomness
+2 months ago
+Hidden Parameters
+Markdown Linting - Parameters, Browsers, Deserialization Randomness
+2 months ago
+Insecure Deserialization
+Fix broken links
+2 months ago
+Insecure Direct Object References
+Markdown Linting - Parameters, Browsers, Deserialization Randomness
+2 months ago
+Insecure Management Interface
+Markdown Linting - Parameters, Browsers, Deserialization Randomness
+2 months ago
+Insecure Randomness
+Markdown Linting - Parameters, Browsers, Deserialization Randomness
+2 months ago
+Insecure Source Code Management
+Markdown Linting - Source Code, JWT, RMI, LDAP, LaTeX
+2 months ago
+JSON Web Token
+Markdown Linting - Source Code, JWT, RMI, LDAP, LaTeX
+2 months ago
+Java RMI
+Markdown Linting - Source Code, JWT, RMI, LDAP, LaTeX
+2 months ago
+LDAP Injection
+Markdown Linting - Source Code, JWT, RMI, LDAP, LaTeX
+2 months ago
+LaTeX Injection
+Markdown Linting - Source Code, JWT, RMI, LDAP, LaTeX
+2 months ago
+Mass Assignment
+Markdown Linting - Mass Assignment, NoSQL, OAuth, Redirect
+2 months ago
+Methodology and Resources
+Markdown Linting - Methodology
+2 months ago
+NoSQL Injection
+NoSQL injection WAF
+last month
+OAuth Misconfiguration
+Markdown Linting - Mass Assignment, NoSQL, OAuth, Redirect
+2 months ago
+ORM Leak
+Markdown Linting - Mass Assignment, NoSQL, OAuth, Redirect
+2 months ago
+Open Redirect
+Markdown Linting - Mass Assignment, NoSQL, OAuth, Redirect
+2 months ago
+Prompt Injection
+Prompt Injection Update
+2 months ago
+Prototype Pollution
+Markdown Linting - Mass Assignment, NoSQL, OAuth, Redirect
+2 months ago
+Race Condition
+Markdown Linting - Mass Assignment, NoSQL, OAuth, Redirect
+2 months ago
+Regular Expression
+Markdown Linting - Mass Assignment, NoSQL, OAuth, Redirect
+2 months ago
+Request Smuggling
+Markdown Linting - SSI, SSRF, SSTI
+2 months ago
+SAML Injection
+Markdown Linting - SSI, SSRF, SSTI
+2 months ago
+SQL Injection
+SQLmap Custom Tamper and Preprocess Scripts
+last month
+Server Side Include Injection
+Markdown Linting - SSI, SSRF, SSTI
+2 months ago
+Server Side Request Forgery
+Markdown Linting - SSI, SSRF, SSTI
+2 months ago
+Server Side Template Injection
+Fix typo 2
+2 months ago
+Tabnabbing
+Markdown Linting - SQL, Juggling, XSLT, XSS, Zip
+2 months ago
+Type Juggling
+Markdown Linting - SQL, Juggling, XSLT, XSS, Zip
+2 months ago
+Upload Insecure Files
+Markdown Linting - SQL, Juggling, XSLT, XSS, Zip
+2 months ago
+Web Cache Deception
+Markdown Linting - SQL, Juggling, XSLT, XSS, Zip
+2 months ago
+Web Sockets
+Markdown Linting - SQL, Juggling, XSLT, XSS, Zip
+2 months ago
+XPATH Injection
+Markdown Linting - SQL, Juggling, XSLT, XSS, Zip
+2 months ago
+XSLT Injection
+Markdown Linting - SQL, Juggling, XSLT, XSS, Zip
+2 months ago
+XSS Injection
+Markdown Linting - SQL, Juggling, XSLT, XSS, Zip
+2 months ago
+XXE Injection
+XXE - Fix typo
+2 months ago
+Zip Slip
+Markdown Linting - SQL, Juggling, XSLT, XSS, Zip
+2 months ago
+_LEARNING_AND_SOCIALS
+Markdown Linting - Source Code, JWT, RMI, LDAP, LaTeX
+2 months ago
+_template_vuln
+Update _template_vuln page
+6 months ago
+.gitignore
+YAML Deserialization
+3 years ago
+CONTRIBUTING.md
+Fix broken links
+2 months ago
+DISCLAIMER.md
+Markdown Linting - Methodology
+2 months ago
+LICENSE
+Create License
+6 years ago
+README.md
+Markdown Linting - Methodology
+2 months ago
+custom.css
+CSS - Update style color + Blind SQL Oracle
+2 years ago
+mkdocs.yml
+SSTI references updates
+6 months ago
