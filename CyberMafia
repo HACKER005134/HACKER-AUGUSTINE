@@ -1,0 +1,19 @@
+cybermafia-portfolio/
+│
+├── README.md          # Portfolio intro (like your homepage)
+│
+├── Labs/
+│   ├── DVWP-SQLi.md   # Report on SQL Injection on DVWP
+│   ├── CarAPI-Hack.md # Report on API hacking simulation
+│   ├── WiFi-Lab.md    # Report on WPA2 cracking + defenses
+│   └── Incident-IR.md # Incident response case study
+│
+├── Scripts/
+│   ├── cam-hunter.py  # Example script (camera hunter)
+│   └── recon-tool.sh  # Example bash recon script
+│
+└── Certs/
+    ├── Cisco-Cybersec.pdf
+    ├── Cisco-Networking.pdf
+    ├── Zsec-EH.pdf
+    └── CyberAnalyst.pdf
